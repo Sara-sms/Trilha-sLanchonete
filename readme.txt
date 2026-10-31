@@ -19,7 +19,7 @@ Como execuatar:
 3 - Siga o passo a passo de uso do site.
 
 Captura de tela da página:
-[Captura de tela da página](image.png)
+![Captura de tela da página](image.png)
 
 Testes Feitos:
 1 - Verificação de cálculo de valor total
